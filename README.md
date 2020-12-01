@@ -1,0 +1,2 @@
+# AdGuard
+AdGuard DNS filters
