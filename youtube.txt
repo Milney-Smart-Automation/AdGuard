@@ -216,3 +216,9 @@ s.youtube.com
 r2---sn-8vq5jvh15-2gte.googlevideo.com
 youtube-ui.l.google.com
 r2---sn-8vq5jvh15-2gtl.googlevideo.com
+photos-ugc.l.googleusercontent.com
+i.ytimg.com
+clients3.google.com
+r1---sn-8vq5jvh15-2gte.googlevideo.com
+||googlevideo.com
+googlevideo.com^
